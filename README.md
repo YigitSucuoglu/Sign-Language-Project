@@ -19,8 +19,8 @@ Word Formation: As you form letters with your hands, the application will combin
 # Requirements
 Python 3.x
 OpenCV library
-Numpy library
 Hand gesture dataset (optional for training)
+
 
 # Installation
 Clone the repository to your local machine:
